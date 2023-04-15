@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (FE) || React || Angular || MongoDB
 -----------------------------------------------------
 
-As a Front-End developer with over 4 years of experience, I have a track record of building successful single-page applications using modern technologies such as React, Angular, and DevExtreme. My expertise lies in creating smooth and intuitive User Interfaces while ensuring optimal functionality. I possess proficiency in a diverse range of web development tools and version control tools. I am committed to continuous learning and staying up-to-date with new technologies and changes to languages and frameworks such as ECMAScript (ES6, ES7, etc.) and Next Js
+With over 4 years of experience, I have a track record of building successful single-page applications using modern technologies such as React, Angular, and DevExtreme. My expertise lies in creating smooth and intuitive User Interfaces while ensuring optimal functionality. I possess proficiency in a diverse range of web development tools and version control tools. I am committed to continuous learning and staying up-to-date with new technologies and changes to languages and frameworks such as ECMAScript (ES6, ES7, etc.) and Next Js.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [rislammnk@gmail.com](mailto:rislammnk@gmail.com)
